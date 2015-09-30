@@ -28,7 +28,7 @@ public class BankAccount {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			deposit(500);
+			//deposit(500);
 		}
 		 balance=balance-amt;
 		System.out.println("Got the balance:"+balance);
